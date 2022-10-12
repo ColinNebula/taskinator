@@ -11,7 +11,7 @@ Tasks to do, tasks in process, and tasks complete. Assigned tasks can also ve ed
 * [License](#license)
 
 ## Project URL deployed to Github pages
-https://github.com/ColinNebula/taskinator
+https://colinnebula.github.io/taskinator/
 
 ## Project GitHub Repository
 https://github.com/ColinNebula/taskinator/tree/main
