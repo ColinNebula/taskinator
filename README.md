@@ -1,8 +1,8 @@
 # Taskinator
 
 ## Description
-Taskinator is a Web application designed with HTML, CSS, and Javascript. It allows creating and assigning task in three categories: 
-Tasks to do, tasks in process, and tasks complete. Assigned tasks can also ve edited and deleted once they ate created.
+Taskinator is a front -end development Web application designed with HTML, CSS, and Javascript. Create tasks by entering the task nmame, selecting a type of task, then click the "Add Task" button.  It allows organizing task in three different categories: 
+Tasks to do, tasks in process, and tasks complete. Assigned tasks can also ve edited and deleted once they are created.
 
 ## Table of contents
 * [Description](#descrition)
